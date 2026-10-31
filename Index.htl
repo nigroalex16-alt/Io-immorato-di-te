@@ -22,14 +22,14 @@ notebook.pack(expand=True, fill="both")
 
 # 4. Funzioni per aprire i video musicali/tutorial di esempio
 def apri_video_1():
-  # Sostituisci questo URL con il link del video che desideri
-  url = "https://youtube.com"
+  # https://vm.tiktok.com/ZN8UohXRg/
+  url = "https://tiktok.com"
   webbrowser.open(url)
 
 
 def apri_video_2():
-  # Sostituisci questo URL con il link del secondo video
-  url = "https://youtube.com"
+  # https://vm.tiktok.com/ZN8UoP2YA/
+  url = "https://tiktok.com"
   webbrowser.open(url)
 
 
